@@ -8,7 +8,7 @@ class News_spider:
     """
     def __init__(self):
         """
-        spider is a dictonary with following nested structrure:
+        spider is a dictonary with the following nested structrure:
             {url: 
                 {
                     'info': [list of collected data],
